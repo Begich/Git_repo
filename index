@@ -2,7 +2,9 @@
 <html class="no-js" lang="ru">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		
+		<script type="text/javascript" async="" src="./index_files/watch.js.Без названия"></script>
+		<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?159",t.onload=function(){VK.Retargeting.Init("VK-RTRG-280263-4p01Q"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script>
+		<script type="text/javascript" async="" src="./index_files/openapi.js.Без названия"></script>
 		<noscript><img src="" style="position:fixed; left:-999px;" alt=""/></noscript>
 		
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,7 +12,7 @@
         <link rel="shortcut icon" href="./favco.ico">
         
 
-        
+        <script type="text/javascript">!function(){"use strict";function e(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function t(e){return window.localStorage&&localStorage.font_css_cache&&localStorage.font_css_cache_file===e}function n(){if(window.localStorage&&window.XMLHttpRequest)if(t(o))c(localStorage.font_css_cache);else{var n=new XMLHttpRequest;n.open("GET",o,!0),e(n,"load",function(){4===n.readyState&&(c(n.responseText),localStorage.font_css_cache=n.responseText,localStorage.font_css_cache_file=o)}),n.send()}else{var a=document.createElement("link");a.href=o,a.rel="stylesheet",a.type="text/css",document.getElementsByTagName("head")[0].appendChild(a),document.cookie="font_css_cache"}}function c(e){var t=document.createElement("style");t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}var o="";window.localStorage&&localStorage.font_css_cache||document.cookie.indexOf("font_css_cache")>-1?n():e(window,"load",n)}();</script>
         <style>@font-face {
     font-family: 'Proxima Nova';
     src: 
@@ -39,8 +41,9 @@
 
 
 
-<link rel="stylesheet" id="style-css" href="./index_files/style.css" type="text/css" media="all">
-
+<link rel="stylesheet" id="ydzbanner-style-css" href="./index_files/style.css" type="text/css" media="all">
+<script type="text/javascript" src="./index_files/jquery-3.3.1.min.js.Без названия"></script>
+<script type="text/javascript" src="./index_files/jquery-migrate-3.0.0.min.js.Без названия"></script>
 
 
 
@@ -205,29 +208,6 @@
 	</div>
 </a>
 
-
-        <a class="works__item">
-            <div class="works__item-taglist">
-                <div class="works__item-tag works__item-tag--html">
-                Instagram stories
-            </div>
-            
-        </div>
-        <div class="works__item-content">
-            <div class="works__item-title">
-            ShitFuck  
-        </div>
-        <div class="works__wrap-img htmlbanner" data-banner="./index_files/7/">
-            <img class="works__html-banner-img" src="./index_files/7">
-            <div class="works__wrap-iframe">
-                <iframe scrolling="no" width="1080" height="1920" class="works__html-banner" src="./index_files/7/">
-                    
-                </iframe>
-            </div>
-        </div>
-    </div>
-</a>
-
    
 
 </div>
@@ -272,6 +252,8 @@
 			   </footer>
 			</div>
 	   </section>
-	  
+	   <script type="text/javascript" src="./index_files/wp-embed.min.js.Без названия"></script>
+	   <script src="./index_files/main.min.js.Без названия"></script>
+	   <script>svg4everybody();</script>
 
 </body></html> 
